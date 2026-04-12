@@ -11,7 +11,7 @@ Protect:
 Develop and implement security measures to prevent potential attacks.
 
 Detect:
-Implement systems and processes to identify cybersecurity events, such as phishing emails or suspicious activity.
+Implement SIEM tools and processes to identify cybersecurity events, such as phishing emails or suspicious activity.
 
 Respond:
 Take action during a cybersecurity incident to contain and mitigate damage.
