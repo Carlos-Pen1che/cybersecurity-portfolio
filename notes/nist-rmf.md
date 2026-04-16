@@ -40,24 +40,24 @@ The RMF is a step-a-step system used to manage cybersecurity risk in an organiza
 ## Practical Example (Applying RMF)
 
 ### Scenario
-In a hospital, an employee with unnecessary privileges is infected with ransomware, compromising the confidentiality, availability and potential integrity of the patients medical data
+In a hospital, an employee with unnecessary privileges is infected with ransomware, compromising the confidentiality, availability and potential integrity of the patient's medical data
 
 ### Applying the 7 Steps
 
 - **Prepare:**  Identify and organize the assets and resources that could be compromised during a ransomware attack, identify roles, plan strategies and define an incident response handling the threat.
-- **Categorize:**  Classify assets and resources according to impact level to the CIA Triad, SPII of patients as high impact on confidentiality, credentials as high impact on confidentiality and potential integrity, ransomware attack impact on availability of the compromised device.
-- **Select:**  Select: Select appropriate security controls to mitigate the problem, for example apply principle of minimum privilege, to reduce the risk from another vulnerabilities based on mismanaged privileges , generate backups outside the network, these controls prioritize the data and resources protection, the confidentiality, integrity and availability of them.
-- **Implement:** 
-- **Assess:** 
-- **Authorize:**  
-- **Monitor:**  
+- **Categorize:**  Classify assets and resources according to impact level to the CIA Triad, SPII of patients as high impact on confidentiality, credentials as high impact on confidentiality and potential integrity, ransomware attack impacts on availability of the compromised device.
+- **Select:**  Select appropriate security controls to mitigate the problem, for example apply principle of minimum privilege, to reduce the risk from another vulnerabilities based on mismanaged privileges , generate backups outside the network, these controls prioritize the data and resources protection, the confidentiality, integrity and availability of them.
+- **Implement:** Implement security controls selected previously ensuring correct deployment
+- **Assess:** Verify and detect vulnerabilities in the security controls, like incorrectly assigned privileges and backups with integrity compromised
+- **Authorize:** Submit the plan with known risks so that the authority accept and authorize a system operation
+- **Monitor:** Monitoring the system 24/7 in search of potential vulnerabilities, changes, and new risks that emerge during a system operation.
 
 ---
 
 ## Conclusion
-(Qué aprendiste / por qué RMF es útil)
+RMF is useful because it is a continuous process that helps with management and decisions in a structured way about the data and resources, based on the impact level of confidentiality, integrity, and availability
 
 ---
 
-## Connection to Incident Response (Optional)
-(Explica cómo esto se conecta con incidentes como phishing, etc.)
+## Connection to Incident Response
+It is associated with incident response integrating risk management in all security cycles, the response turns into a proactive and structured process instead of just a reactive response
